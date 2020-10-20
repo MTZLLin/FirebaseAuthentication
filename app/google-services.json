@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "347720307580",
+    "firebase_url": "https://test-95404.firebaseio.com",
+    "project_id": "test-95404",
+    "storage_bucket": "test-95404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347720307580:android:204eb31778237529c98af9",
+        "android_client_info": {
+          "package_name": "com.mtzl.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347720307580-j4md4vcgpno7mtigkqrk7t6meo10460t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7uF3EywGbaUrrAX89Gmp04MKXILK2_bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347720307580-j4md4vcgpno7mtigkqrk7t6meo10460t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
